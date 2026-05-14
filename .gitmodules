@@ -1,0 +1,3 @@
+[submodule "skills/payments/robokassa-readiness"]
+	path = skills/payments/robokassa-readiness
+	url = https://github.com/TPuHo4u/robokassa-readiness.git
